@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kyle Soto
+## 👋 Hi, I’m Kyle Soto
 - 🧑‍💻 Professional Full-Stack Software Engineer for 7+ years primarily in Java, Swift and C#.
 - 👀 I’m interested in Game Development, Golang, Rust, and DSA.
 - 🌱 I’m currently learning Golang, Python and Unity.
